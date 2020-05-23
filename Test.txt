@@ -1,5 +1,0 @@
-This is to check the overall process of git.
-
-This is modofied test file. (again)
-
-Yey!

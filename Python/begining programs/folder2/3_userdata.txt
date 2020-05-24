@@ -1,0 +1,3 @@
+Bhaumik,50
+Hemil,100
+Arth,75

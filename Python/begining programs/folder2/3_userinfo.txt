@@ -1,0 +1,3 @@
+Bhaumik's salary is 50
+Hemil's salary is 100
+Arth's salary is 75
